@@ -14,4 +14,4 @@ for(int count=0;count<position-1;count++)
 SinglyLinkedListNode j=i.next;
 i.next=j.next;}
 return head;
-    }
+    }}
